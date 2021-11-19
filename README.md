@@ -1,4 +1,4 @@
-# Asistente HelpDesk
+# Asistente Soporte
 
 Algoritmo de NLP que automatiza la solución de tickets cargados por los usuarios.
 Este repositorio es parte de un Articulo en Medium donde se explica en profundidad https://medium.com/@alejandro4801/cac952f39940 
